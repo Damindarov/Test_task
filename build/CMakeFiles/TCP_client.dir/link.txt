@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++1y -Wall  -rdynamic CMakeFiles/TCP_client.dir/TCP_client.cpp.o  -o TCP_client 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/r/Рабочий стол/test_task/libs/TCP_server.cpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+process.h
+/home/r/Рабочий стол/test_task/libs/process.h
+unistd.h
+-
+iostream
+-
+cstring
+-
+TCP_server.h
+/home/r/Рабочий стол/test_task/libs/TCP_server.h
+thread
+-
+
+/home/r/Рабочий стол/test_task/libs/TCP_server.h
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+
+/home/r/Рабочий стол/test_task/libs/process.h
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++1y -Wall  -rdynamic CMakeFiles/server.dir/server.cpp.o  -o server  libs/libTCP_server.a libs/libUDP_server.a 

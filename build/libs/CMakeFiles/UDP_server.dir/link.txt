@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUDP_server.a  CMakeFiles/UDP_server.dir/UDP_server.cpp.o CMakeFiles/UDP_server.dir/process.cpp.o
+/usr/bin/ranlib libUDP_server.a

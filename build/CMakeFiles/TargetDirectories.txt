@@ -1,0 +1,8 @@
+/home/r/Рабочий стол/test_task/build/CMakeFiles/rebuild_cache.dir
+/home/r/Рабочий стол/test_task/build/CMakeFiles/edit_cache.dir
+/home/r/Рабочий стол/test_task/build/CMakeFiles/server.dir
+/home/r/Рабочий стол/test_task/build/CMakeFiles/client.dir
+/home/r/Рабочий стол/test_task/build/libs/CMakeFiles/rebuild_cache.dir
+/home/r/Рабочий стол/test_task/build/libs/CMakeFiles/edit_cache.dir
+/home/r/Рабочий стол/test_task/build/libs/CMakeFiles/UDP_server.dir
+/home/r/Рабочий стол/test_task/build/libs/CMakeFiles/TCP_server.dir
